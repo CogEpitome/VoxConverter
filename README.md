@@ -3,23 +3,14 @@ Jonas fulhackade vox-till-mp3-konverterare
 
 ## Project setup
 ```
-npm install
-```
+1: Run the following in a terminal:
 
-### Compiles and hot-reloads for development
-```
+git clone https://github.com/CogEpitome/VoxConverter.git
+cd VoxConverter
+npm install @vue/cli
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2: Go to localhost:8080
 
-### Lints and fixes files
+3: Get converting!
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
